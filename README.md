@@ -1,6 +1,6 @@
 # Hi, i´m *Ceant*
 ## About me 💻
-Self-taught **Web Developer** with 6 years of experience and solid knowledge in creating **responsive and accessible user interfaces**, committed to continuous improvement and technological innovation
+**Web Developer** with 6 years of experience and solid knowledge in creating **responsive and accessible user interfaces**, committed to continuous improvement and technological innovation
 
 - 🌐 Web Designer
 - 🎨 Front-End Developer
